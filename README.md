@@ -4,8 +4,8 @@ I have uploaded my first game here called Space Shooter. It is set in the year f
 goes on a journey to find a new home. You as a pilot of the ship have to make sure they reach their destination safely.
 
 HOW TO PLAY
-1) Just search the right game executable file according to your OS
-2) Download the file 
+1) Just search the right game executable zip file according to your OS
+2) Download the file and extract it to your favourite game folder
 3) Run it and destroy those nasty Meteors!!!
 
 Things to add:
