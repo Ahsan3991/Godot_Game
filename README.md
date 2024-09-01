@@ -1,24 +1,24 @@
-# Godot_Game
+**GODOT GAME DEVELOPMENT**
 Welcome to my world of Game development!
 I have uploaded my first game here called Space Shooter. It is set in the year far far away from now, when last of the survivors of the apocalypse,
 goes on a journey to find a new home. You as a pilot of the ship have to make sure they reach their destination safely.
 
-HOW TO PLAY
-ON LINUX
+**HOW TO PLAY**
+*ON LINUX*
 1) Just search the right game executable zip file (SpaceShooterLinux.zip) and its respective pck file 
 2) Download the file and extract it to your favourite game folder
 3) Run it and destroy those nasty Meteors!!!
    
-ON WINDOWS
+*ON WINDOWS*
 Use the following google drive link to download the windows executable because i do not know how to handle files bigger than 25mb on Git and yes i tried GitLFS  
 
 Google Drive Link (I promise its not a virus/malware):  
 
-https://drive.google.com/file/d/1jBUrW-1r-66jGONhDcOtwId8sLG6AtLe/view?usp=drive_link
+[Space Shooter Game for Windows](https://drive.google.com/file/d/1jBUrW-1r-66jGONhDcOtwId8sLG6AtLe/view?usp=drive_link)
 
 
 
-Things to add:
+**THINGS TO ADD IN FUTURE**
 1) Better way of keeping score
 2) Add different levels and increase the number of meteor/speed accordingly
 3) Different ways to regain health back
