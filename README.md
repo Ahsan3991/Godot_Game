@@ -10,8 +10,10 @@ ON LINUX
 3) Run it and destroy those nasty Meteors!!!
    
 ON WINDOWS
-Use the following google drive link to download the windows executable because i do not know how to handle files bigger than 25mb on Git and yes i tried GitLFS
-Google Drive Link (I promise its not a virus/malware)
+Use the following google drive link to download the windows executable because i do not know how to handle files bigger than 25mb on Git and yes i tried GitLFS  
+
+Google Drive Link (I promise its not a virus/malware):  
+
 https://drive.google.com/file/d/1jBUrW-1r-66jGONhDcOtwId8sLG6AtLe/view?usp=drive_link
 
 
