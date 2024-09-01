@@ -12,3 +12,8 @@ Things to add:
 1) Better way of keeping score
 2) Add different levels
 3) Animations for different events like meteor destruction
+
+Images from the actual game September 2024
+![title scene](https://github.com/user-attachments/assets/5de8c755-c8cf-4f52-b146-d72dddd19b38)
+![Gameover screen](https://github.com/user-attachments/assets/cef39261-3f08-4b0f-a75d-8ef4a7d4f3bd)
+![gameplay](https://github.com/user-attachments/assets/133b976b-5177-4d5b-adfb-eb6b6166efbf)
