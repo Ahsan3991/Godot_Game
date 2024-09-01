@@ -10,9 +10,8 @@ goes on a journey to find a new home. You as a pilot of the ship have to make su
 3) Run it and destroy those nasty Meteors!!!
    
 *ON WINDOWS*
-Use the following google drive link to download the windows executable because i do not know how to handle files bigger than 25mb on Git and yes i tried GitLFS  
+Use the following google drive link to download the windows executable (I promise its not a virus or malware) 
 
-Google Drive Link (I promise its not a virus/malware):  
 
 [Space Shooter Game for Windows](https://drive.google.com/file/d/1jBUrW-1r-66jGONhDcOtwId8sLG6AtLe/view?usp=drive_link)
 
