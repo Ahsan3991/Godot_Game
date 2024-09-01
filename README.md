@@ -4,14 +4,23 @@ I have uploaded my first game here called Space Shooter. It is set in the year f
 goes on a journey to find a new home. You as a pilot of the ship have to make sure they reach their destination safely.
 
 HOW TO PLAY
-1) Just search the right game executable zip file according to your OS and its respective pck file (sorry i do not know how to handle large files in git)
+ON LINUX
+1) Just search the right game executable zip file (SpaceShooterLinux.zip) and its respective pck file 
 2) Download the file and extract it to your favourite game folder
 3) Run it and destroy those nasty Meteors!!!
+   
+ON WINDOWS
+Use the following google drive link to download the windows executable because i do not know how to handle files bigger than 25mb on Git and yes i tried GitLFS
+Google Drive Link (I promise its not a virus/malware)
+https://drive.google.com/file/d/1jBUrW-1r-66jGONhDcOtwId8sLG6AtLe/view?usp=drive_link
+
+
 
 Things to add:
 1) Better way of keeping score
-2) Add different levels
-3) Animations for different events like meteor destruction
+2) Add different levels and increase the number of meteor/speed accordingly
+3) Different ways to regain health back
+4) Animations for different events like meteor destruction
 
 Images from the actual game September 2024
 ![title scene](https://github.com/user-attachments/assets/5de8c755-c8cf-4f52-b146-d72dddd19b38)
